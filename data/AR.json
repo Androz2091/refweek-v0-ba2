@@ -1,12 +1,12 @@
 [
     {
-        "subjectStandardName": "Géométrie pour architectes I",
+        "subjectStandardName": "Géométrie pour architectes II",
         "coursList": [
             {
-                "subjectStandardName": "Géométrie pour architectes I",
-                "coursName": "Géométrie pour architectes I",
+                "subjectStandardName": "Géométrie pour architectes II",
+                "coursName": "Géométrie pour architectes II",
                 "coursDisplayName": "Ismail",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/geometrie-pour-architectes-i-MATH-124",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/geometrie-pour-architectes-ii-MATH-126",
                 "prof": "Ismail",
                 "lessons": [
                     {
@@ -17,7 +17,7 @@
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "SG1",
+                        "salle": "AAC114",
                         "demiWeek": false
                     },
                     {
@@ -40,46 +40,57 @@
         ]
     },
     {
-        "subjectStandardName": "Mathématiques",
+        "subjectStandardName": "Physique du bâtiment",
         "coursList": [
             {
-                "subjectStandardName": "Mathématiques",
-                "coursName": "Mathématiques",
-                "coursDisplayName": "Burzio",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/mathematiques-MATH-189",
-                "prof": "Burzio",
+                "subjectStandardName": "Physique du bâtiment",
+                "coursName": "Physique du bâtiment",
+                "coursDisplayName": "Schueler",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/physique-du-batiment-PHYS-118",
+                "prof": "Schueler",
                 "lessons": [
                     {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
+                        "day": 3,
+                        "startHour": 10,
+                        "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "INM201",
+                        "salle": "CE13",
                         "demiWeek": false
                     },
                     {
-                        "day": 4,
+                        "day": 5,
+                        "startHour": 16,
+                        "hoursCount": 1,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CE13",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 3,
                         "startHour": 8,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE6",
+                        "salle": "CE13",
                         "demiWeek": false
                     },
                     {
-                        "day": 2,
-                        "startHour": 13,
+                        "day": 5,
+                        "startHour": 14,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE6",
+                        "salle": "CE13",
                         "demiWeek": false
                     }
                 ],
@@ -91,68 +102,39 @@
         ]
     },
     {
-        "subjectStandardName": "Modélisation numérique",
+        "subjectStandardName": "Technologie du bâti I, II",
         "coursList": [
             {
-                "subjectStandardName": "Modélisation numérique",
-                "coursName": "Modélisation numérique",
-                "coursDisplayName": "Mignon",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/modelisation-numerique-AR-114",
-                "prof": "Mignon",
-                "lessons": [
-                    {
-                        "day": 2,
-                        "startHour": 15,
-                        "hoursCount": 3,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO3",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 0,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Tomographie architecturale",
-        "coursList": [
-            {
-                "subjectStandardName": "Tomographie architecturale",
-                "coursName": "Tomographie architecturale",
-                "coursDisplayName": "Abenia, Taillieu",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/tomographie-architecturale-AR-129",
-                "prof": "Abenia, Taillieu",
+                "subjectStandardName": "Technologie du bâti I, II",
+                "coursName": "Technologie du bâti I, II",
+                "coursDisplayName": "Fivet, Zurbrügg",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/technologie-du-bati-i-ii-AR-128",
+                "prof": "Fivet, Zurbrügg",
                 "lessons": [
                     {
                         "day": 5,
-                        "startHour": 10,
+                        "startHour": 11,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "STCC - Cloud C",
+                        "salle": "CE13",
                         "demiWeek": false
                     },
                     {
                         "day": 5,
                         "startHour": 8,
-                        "hoursCount": 2,
+                        "hoursCount": 3,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "STCC - Cloud C",
+                        "salle": "CE13",
                         "demiWeek": false
                     }
                 ],
-                "hourCountCours": 2,
+                "hourCountCours": 3,
                 "hourCountExercices": 2,
                 "hourCountTP": 0,
                 "hourCountProject": 0
@@ -160,46 +142,35 @@
         ]
     },
     {
-        "subjectStandardName": "Art fundaments",
+        "subjectStandardName": "Figuration graphique",
         "coursList": [
             {
-                "subjectStandardName": "Art fundaments",
-                "coursName": "Art fundaments",
-                "coursDisplayName": "Fröhlich, Rochat",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/art-fundaments-AR-119",
-                "prof": "Fröhlich, Rochat",
+                "subjectStandardName": "Figuration graphique",
+                "coursName": "Figuration graphique",
+                "coursDisplayName": "Braghieri, Soubeyrand",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/figuration-graphique-AR-113",
+                "prof": "Braghieri, Soubeyrand",
                 "lessons": [
                     {
-                        "day": 3,
-                        "startHour": 9,
-                        "hoursCount": 1,
+                        "day": 4,
+                        "startHour": 15,
+                        "hoursCount": 3,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "AAC008",
+                        "salle": "AAC006",
                         "demiWeek": false
                     },
                     {
-                        "day": 3,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "AAC008",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 8,
+                        "day": 4,
+                        "startHour": 14,
                         "hoursCount": 1,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "AAC008",
+                        "salle": "AAC006",
                         "demiWeek": false
                     }
                 ],
@@ -211,24 +182,24 @@
         ]
     },
     {
-        "subjectStandardName": "Histoire et théories de l'environnement I",
+        "subjectStandardName": "Histoire et théories de l'environnement II",
         "coursList": [
             {
-                "subjectStandardName": "Histoire et théories de l'environnement I",
-                "coursName": "Histoire et théories de l'environnement I",
+                "subjectStandardName": "Histoire et théories de l'environnement II",
+                "coursName": "Histoire et théories de l'environnement II",
                 "coursDisplayName": "Marot",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/histoire-et-theories-de-l-environnement-i-AR-154",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/histoire-et-theories-de-l-environnement-ii-AR-155",
                 "prof": "Marot",
                 "lessons": [
                     {
                         "day": 4,
-                        "startHour": 14,
+                        "startHour": 8,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CO2",
+                        "salle": "AAC231",
                         "demiWeek": false
                     }
                 ],
@@ -240,13 +211,42 @@
         ]
     },
     {
-        "subjectStandardName": "Théorie et critique du projet BA1",
+        "subjectStandardName": "History of Architecture I,II",
         "coursList": [
             {
-                "subjectStandardName": "Théorie et critique du projet BA1",
-                "coursName": "Théorie et critique du projet BA1",
+                "subjectStandardName": "History of Architecture I,II",
+                "coursName": "History of Architecture I,II",
+                "coursDisplayName": "Thiermann",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/history-of-architecture-i-ii-AR-123",
+                "prof": "Thiermann",
+                "lessons": [
+                    {
+                        "day": 2,
+                        "startHour": 13,
+                        "hoursCount": 4,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "BCH2201",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 4,
+                "hourCountExercices": 0,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Théorie et critique du projet BA2",
+        "coursList": [
+            {
+                "subjectStandardName": "Théorie et critique du projet BA2",
+                "coursName": "Théorie et critique du projet BA2",
                 "coursDisplayName": "Dietz, Seewang (config 1)",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/theorie-et-critique-du-projet-ba1-AR-101",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/theorie-et-critique-du-projet-ba2-AR-102",
                 "prof": "Dietz, Seewang",
                 "lessons": [
                     {
@@ -276,10 +276,10 @@
                 "hourCountProject": 4
             },
             {
-                "subjectStandardName": "Théorie et critique du projet BA1",
-                "coursName": "Théorie et critique du projet BA1",
+                "subjectStandardName": "Théorie et critique du projet BA2",
+                "coursName": "Théorie et critique du projet BA2",
                 "coursDisplayName": "Dietz, Seewang (config 2)",
-                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/theorie-et-critique-du-projet-ba1-AR-101",
+                "coursLink": "/studyplan/fr/propedeutique/architecture/coursebook/theorie-et-critique-du-projet-ba2-AR-102",
                 "prof": "Dietz, Seewang",
                 "lessons": [
                     {
@@ -307,6 +307,34 @@
                 "hourCountExercices": 0,
                 "hourCountTP": 0,
                 "hourCountProject": 4
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "SHS",
+        "coursList": [
+            {
+                "subjectStandardName": "SHS",
+                "coursName": "SHS",
+                "coursDisplayName": "SHS",
+                "coursLink": "/studyplan/fr/propedeutique/programme-sciences-humaines-et-sociales/coursebook/enjeux-mondiaux-alimentation-a-HUM-120-A",
+                "prof": "SHS",
+                "lessons": [
+                    {
+                        "day": 2,
+                        "startHour": 17,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "SG1",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 2,
+                "hourCountExercices": 0,
+                "hourCountTP": 0
             }
         ]
     }

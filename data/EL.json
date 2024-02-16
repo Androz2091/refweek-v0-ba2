@@ -1,122 +1,28 @@
 [
     {
-        "subjectStandardName": "Algèbre linéaire",
+        "subjectStandardName": "Analyse II",
         "coursList": [
             {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire (anglais)",
-                "coursDisplayName": "Iseli (anglais)",
-                "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/algebre-lineaire-anglais-MATH-111-EN",
-                "prof": "Iseli",
+                "subjectStandardName": "Analyse II",
+                "coursName": "Analyse II",
+                "coursDisplayName": "Mila",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-ii-MATH-106-B",
+                "prof": "Mila",
                 "lessons": [
                     {
-                        "day": 4,
-                        "startHour": 16,
+                        "day": 1,
+                        "startHour": 10,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "CM013",
+                        "salle": "GRA330",
                         "demiWeek": false
                     },
                     {
-                        "day": 2,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire (classe inversée)",
-                "coursDisplayName": "Testerman (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/algebre-lineaire-classe-inversee-MATH-111-PI",
-                "prof": "Testerman",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "GCC330",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire",
-                "coursDisplayName": "Zuleta Estrugo",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/algebre-lineaire-MATH-111-G",
-                "prof": "Zuleta Estrugo",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "GRC001",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 14,
+                        "day": 1,
+                        "startHour": 8,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
@@ -126,58 +32,6 @@
                         "demiWeek": false
                     },
                     {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO1",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Analyse I",
-        "coursList": [
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (allemand)",
-                "coursDisplayName": "Schmid (allemand)",
-                "coursPrecision": "allemand",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-i-allemand-MATH-101-DE",
-                "prof": "Schmid",
-                "lessons": [
-                    {
-                        "day": 1,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CO122",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CM011",
-                        "demiWeek": false
-                    },
-                    {
                         "day": 3,
                         "startHour": 8,
                         "hoursCount": 2,
@@ -185,7 +39,7 @@
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE1100",
+                        "salle": "MAB111",
                         "demiWeek": false
                     }
                 ],
@@ -195,22 +49,22 @@
                 "hourCountProject": 0
             },
             {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (anglais)",
-                "coursDisplayName": "Mountford (anglais)",
+                "subjectStandardName": "Analyse II",
+                "coursName": "Analyse II (anglais)",
+                "coursDisplayName": "Richter (anglais)",
                 "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-i-anglais-MATH-101-EN",
-                "prof": "Mountford",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-ii-anglais-MATH-106-EN",
+                "prof": "Richter",
                 "lessons": [
                     {
-                        "day": 3,
+                        "day": 1,
                         "startHour": 10,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "CM010",
+                        "salle": "CM1100",
                         "demiWeek": false
                     },
                     {
@@ -221,136 +75,11 @@
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "PO01",
+                        "salle": "CE12",
                         "demiWeek": false
                     },
                     {
                         "day": 3,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (classe inversée)",
-                "coursDisplayName": "Garin (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-i-classe-inversee-MATH-101-PI",
-                "prof": "Garin",
-                "lessons": [
-                    {
-                        "day": 3,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (online)",
-                "coursDisplayName": "Friedli (online)",
-                "coursPrecision": "online",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-i-online-MATH-101-OL",
-                "prof": "Friedli",
-                "lessons": [
-                    {
-                        "day": 2,
-                        "startHour": 17,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isCours": false,
-                        "isProject": false,
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isCours": false,
-                        "isProject": false,
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I",
-                "coursDisplayName": "Chizat",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/analyse-i-MATH-101-G",
-                "prof": "Chizat",
-                "lessons": [
-                    {
-                        "day": 1,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "SG0211",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
                         "startHour": 8,
                         "hoursCount": 2,
                         "isExercice": false,
@@ -369,47 +98,57 @@
         ]
     },
     {
-        "subjectStandardName": "Physique générale : mécanique",
+        "subjectStandardName": "Physique générale : thermodynamique",
         "coursList": [
             {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique (anglais)",
-                "coursDisplayName": "Ball (anglais)",
-                "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-mecanique-anglais-PHYS-101-EN",
-                "prof": "Ball",
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique",
+                "coursDisplayName": "Bréchet",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-thermodynamique-PHYS-106-B",
+                "prof": "Bréchet",
                 "lessons": [
                     {
-                        "day": 2,
-                        "startHour": 10,
+                        "day": 4,
+                        "startHour": 9,
                         "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "SG1",
+                        "salle": "CE16",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 4,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "ELG116",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 4,
+                        "startHour": 8,
+                        "hoursCount": 1,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE16",
                         "demiWeek": false
                     },
                     {
                         "day": 3,
                         "startHour": 17,
                         "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "GCA330",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 16,
-                        "hoursCount": 3,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE6",
+                        "salle": "CE16",
                         "demiWeek": false
                     }
                 ],
@@ -419,26 +158,26 @@
                 "hourCountProject": 0
             },
             {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique (classe inversée)",
-                "coursDisplayName": "Hébert (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-mecanique-classe-inversee-PHYS-101-L",
-                "prof": "Hébert",
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique (anglais)",
+                "coursDisplayName": "Hirschmann (anglais)",
+                "coursPrecision": "anglais",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-thermodynamique-anglais-PHYS-106-EN",
+                "prof": "Hirschmann",
                 "lessons": [
                     {
-                        "day": 2,
-                        "startHour": 10,
+                        "day": 4,
+                        "startHour": 12,
                         "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "CE3",
+                        "salle": "CE11",
                         "demiWeek": false
                     },
                     {
-                        "day": 5,
+                        "day": 3,
                         "startHour": 17,
                         "hoursCount": 2,
                         "isExercice": true,
@@ -449,25 +188,14 @@
                         "demiWeek": false
                     },
                     {
-                        "day": 5,
-                        "startHour": 16,
-                        "hoursCount": 1,
+                        "day": 4,
+                        "startHour": 9,
+                        "hoursCount": 3,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE3",
+                        "salle": "CE11",
                         "demiWeek": false
                     }
                 ],
@@ -477,57 +205,13 @@
                 "hourCountProject": 0
             },
             {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique",
-                "coursDisplayName": "Mila",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-mecanique-PHYS-101-K",
-                "prof": "Mila",
-                "lessons": [
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1100",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 18,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 10,
-                        "hoursCount": 1,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    }
-                ],
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique (classe inversée en anglais)",
+                "coursDisplayName": " (classe inversée en anglais)",
+                "coursPrecision": "classe inversée en anglais",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/physique-generale-thermodynamique-classe-inversee-en-anglais-PHYS-106-PI",
+                "prof": "",
+                "lessons": [],
                 "hourCountCours": 3,
                 "hourCountExercices": 3,
                 "hourCountTP": 0,
@@ -536,104 +220,190 @@
         ]
     },
     {
-        "subjectStandardName": "Sciences et technologies de l'électricité",
+        "subjectStandardName": "Circuits et systèmes",
         "coursList": [
             {
-                "subjectStandardName": "Sciences et technologies de l'électricité",
-                "coursName": "Sciences et technologies de l'électricité",
-                "coursDisplayName": "Allenbach, Koukab, Martin, Zoia",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/sciences-et-technologies-de-l-electricite-EE-100",
-                "prof": "Allenbach, Koukab, Martin, Zoia",
+                "subjectStandardName": "Circuits et systèmes",
+                "coursName": "Circuits et systèmes",
+                "coursDisplayName": "Rachidi-Haeri",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/circuits-et-systemes-EE-111",
+                "prof": "Rachidi-Haeri",
                 "lessons": [
                     {
-                        "day": 5,
-                        "startHour": 11,
+                        "day": 3,
+                        "startHour": 16,
                         "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "ELA2",
+                        "salle": "CE15",
                         "demiWeek": false
                     },
                     {
-                        "day": 5,
+                        "day": 3,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE15",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 2,
+                "hourCountExercices": 1,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Introduction à la conception mécanique",
+        "coursList": [
+            {
+                "subjectStandardName": "Introduction à la conception mécanique",
+                "coursName": "Introduction à la conception mécanique",
+                "coursDisplayName": "Lacour, Soubielle",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/introduction-a-la-conception-mecanique-ME-105",
+                "prof": "Lacour, Soubielle",
+                "lessons": [
+                    {
+                        "day": 4,
+                        "startHour": 15,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CO4",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
+                        "startHour": 14,
+                        "hoursCount": 3,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CO4",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 3,
+                "hourCountExercices": 2,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Materials: from chemistry to properties",
+        "coursList": [
+            {
+                "subjectStandardName": "Materials: from chemistry to properties",
+                "coursName": "Materials: from chemistry to properties",
+                "coursDisplayName": "Klok-Lermann, Rappaz",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/materials-from-chemistry-to-properties-MSE-101-B",
+                "prof": "Klok-Lermann, Rappaz",
+                "lessons": [
+                    {
+                        "day": 4,
+                        "startHour": 13,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CE1106",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 2,
                         "startHour": 9,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "ELA2",
+                        "salle": "SG1",
                         "demiWeek": false
                     },
                     {
-                        "day": 1,
-                        "startHour": 13,
-                        "hoursCount": 3,
-                        "isExercice": false,
-                        "isTP": true,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "MED21517",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 2,
-                "hourCountExercices": 1,
-                "hourCountTP": 3,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Information, calcul, communication",
-        "coursList": [
-            {
-                "subjectStandardName": "Information, calcul, communication",
-                "coursName": "Information, calcul, communication",
-                "coursDisplayName": "Boulic",
-                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/information-calcul-communication-CS-119-C",
-                "prof": "Boulic",
-                "lessons": [
-                    {
-                        "day": 5,
-                        "startHour": 14,
-                        "hoursCount": 3,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "INM200",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 8,
+                        "day": 3,
+                        "startHour": 12,
                         "hoursCount": 1,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE6",
+                        "salle": "CE16",
                         "demiWeek": false
-                    },
+                    }
+                ],
+                "hourCountCours": 3,
+                "hourCountExercices": 2,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Programmation orientée projet",
+        "coursList": [
+            {
+                "subjectStandardName": "Programmation orientée projet",
+                "coursName": "Programmation orientée projet",
+                "coursDisplayName": "Boulic",
+                "coursLink": "/studyplan/fr/propedeutique/genie-electrique-et-electronique/coursebook/programmation-orientee-projet-COM-112-A",
+                "prof": "Boulic",
+                "lessons": [
+                    {
+                        "day": 5,
+                        "startHour": 16,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": true,
+                        "salle": "CO4",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 1,
+                "hourCountExercices": 0,
+                "hourCountTP": 0,
+                "hourCountProject": 2
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "SHS",
+        "coursList": [
+            {
+                "subjectStandardName": "SHS",
+                "coursName": "SHS",
+                "coursDisplayName": "SHS",
+                "coursLink": "/studyplan/fr/propedeutique/programme-sciences-humaines-et-sociales/coursebook/enjeux-mondiaux-alimentation-a-HUM-120-A",
+                "prof": "SHS",
+                "lessons": [
                     {
                         "day": 2,
-                        "startHour": 11,
+                        "startHour": 17,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "RLC E1 240",
+                        "salle": "SG1",
                         "demiWeek": false
                     }
                 ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
+                "hourCountCours": 2,
+                "hourCountExercices": 0,
+                "hourCountTP": 0
             }
         ]
     }

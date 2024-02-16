@@ -32,12 +32,13 @@ for (const section of Object.keys(sections)) {
             
             // on récup les infos de base
 
-            const isBA1 = cours.children[2].children[0].children[0].textContent !== '-';
+            //const isBA1 = cours.children[2].children[0].children[0].textContent !== '-';
+            const isBA2 = cours.children[3].children[0].children[0].textContent !== '-';
             const subjectCompleteName = cours.children[0].children[0]?.children[0]?.textContent;
             if (!subjectCompleteName) continue;
             const coursLink = cours.children[0].children[0].children[0].href;
             const prof = cours.children[0].children[2].textContent;
-            if (!isBA1) continue;
+            if (!isBA2) continue;
 
             const coursPrecision = subjectCompleteName.split('(')[1]?.split(')')[0];
             const coursName = subjectCompleteName.split(' (')[0] + (coursPrecision ? ` (${coursPrecision})` : '');
@@ -139,6 +140,52 @@ for (const section of Object.keys(sections)) {
             coursDataList.push(coursData);
 
         }
+
+        // là on ajoute les SHS
+        const SHSCourseLink = 'https://edu.epfl.ch/studyplan/fr/propedeutique/programme-sciences-humaines-et-sociales/';
+        const SHSList = await fetchDocument(SHSCourseLink);
+        const firstSHSCourse = SHSList.querySelector('.line');
+        const SHSCourseLinkHref = firstSHSCourse.children[0].children[0].children[0].href;
+        const SHSCourseLinkFull = 'https://edu.epfl.ch' + SHSCourseLinkHref;
+        const SHSCourseDocument = await fetchDocument(SHSCourseLinkFull);
+        const SHSCourseHourCount = 2;
+        const SHSCourse = {
+            subjectStandardName: 'SHS',
+            coursName: 'SHS',
+            coursDisplayName: 'SHS',
+            coursLink: SHSCourseLinkHref,
+            prof: 'SHS',
+            lessons: [],
+            hourCountCours: SHSCourseHourCount,
+            hourCountExercices: 0,
+            hourCountTP: 0
+        };
+        const SHSCourseSemaineDeRef = SHSCourseDocument.querySelector('.semaineDeRef').children[0].children;
+        for (const hours of SHSCourseSemaineDeRef) {
+            const startHour = parseInt(hours.children[0].textContent.split('-')[0]);
+            if (isNaN(startHour)) continue;
+            let idx = -2;
+            for (const child of hours.children) {
+                idx++;
+                if (child.textContent === ' ') continue;
+                const isCourse = child.classList.contains('taken');
+                if (!isCourse) continue;
+                const hoursCount = parseInt(child.getAttribute('rowspan')) || 1;
+                const salle = child?.children[0]?.textContent;
+                SHSCourse.lessons.push({
+                    day: idx + 1,
+                    startHour,
+                    hoursCount,
+                    isExercice: false,
+                    isTP: false,
+                    isCours: true,
+                    isProject: false,
+                    salle,
+                    demiWeek: false
+                });
+            }
+        }
+        coursDataList.push(SHSCourse);
 
         const newCoursDataList = [];
         const formattedSubjectDataList = [];

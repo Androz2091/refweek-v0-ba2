@@ -1,335 +1,17 @@
 [
     {
-        "subjectStandardName": "Algèbre linéaire",
+        "subjectStandardName": "Analyse II",
         "coursList": [
             {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire (anglais)",
-                "coursDisplayName": "Iseli (anglais)",
-                "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/algebre-lineaire-anglais-MATH-111-EN",
-                "prof": "Iseli",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CM013",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire (classe inversée)",
-                "coursDisplayName": "Testerman (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/algebre-lineaire-classe-inversee-MATH-111-PI",
-                "prof": "Testerman",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "GCC330",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Algèbre linéaire",
-                "coursName": "Algèbre linéaire",
-                "coursDisplayName": "Cavallin",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/algebre-lineaire-MATH-111-F",
-                "prof": "Cavallin",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "INF119",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 14,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CM12",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Analyse I",
-        "coursList": [
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (allemand)",
-                "coursDisplayName": "Schmid (allemand)",
-                "coursPrecision": "allemand",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-i-allemand-MATH-101-DE",
-                "prof": "Schmid",
-                "lessons": [
-                    {
-                        "day": 1,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CO122",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CM011",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1100",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (anglais)",
-                "coursDisplayName": "Mountford (anglais)",
-                "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-i-anglais-MATH-101-EN",
-                "prof": "Mountford",
-                "lessons": [
-                    {
-                        "day": 3,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CM010",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "PO01",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (classe inversée)",
-                "coursDisplayName": "Garin (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-i-classe-inversee-MATH-101-PI",
-                "prof": "Garin",
-                "lessons": [
-                    {
-                        "day": 3,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 10,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1515",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I (online)",
-                "coursDisplayName": "Friedli (online)",
-                "coursPrecision": "online",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-i-online-MATH-101-OL",
-                "prof": "Friedli",
-                "lessons": [
-                    {
-                        "day": 2,
-                        "startHour": 17,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isCours": false,
-                        "isProject": false,
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isCours": false,
-                        "isProject": false,
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 4,
-                "hourCountExercices": 2,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Analyse I",
-                "coursName": "Analyse I",
+                "subjectStandardName": "Analyse II",
+                "coursName": "Analyse II",
                 "coursDisplayName": "Strütt",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-i-MATH-101-F",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-ii-MATH-106-F",
                 "prof": "Strütt",
                 "lessons": [
                     {
                         "day": 4,
-                        "startHour": 8,
+                        "startHour": 16,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
@@ -340,24 +22,71 @@
                     },
                     {
                         "day": 1,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CM13",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
                         "startHour": 10,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "STCC - Cloud C",
+                        "salle": "CE11",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 4,
+                        "startHour": 14,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "BCH2201",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 4,
+                "hourCountExercices": 2,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            },
+            {
+                "subjectStandardName": "Analyse II",
+                "coursName": "Analyse II (anglais)",
+                "coursDisplayName": "Richter (anglais)",
+                "coursPrecision": "anglais",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/analyse-ii-anglais-MATH-106-EN",
+                "prof": "Richter",
+                "lessons": [
+                    {
+                        "day": 1,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CM1100",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
+                        "startHour": 8,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE12",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 3,
+                        "startHour": 8,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CO2",
                         "demiWeek": false
                     }
                 ],
@@ -369,191 +98,46 @@
         ]
     },
     {
-        "subjectStandardName": "Physique générale : mécanique",
+        "subjectStandardName": "Physique générale : thermodynamique",
         "coursList": [
             {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique (anglais)",
-                "coursDisplayName": "Ball (anglais)",
-                "coursPrecision": "anglais",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-mecanique-anglais-PHYS-101-EN",
-                "prof": "Ball",
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique",
+                "coursDisplayName": "Furno",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-thermodynamique-PHYS-106-H",
+                "prof": "Furno",
                 "lessons": [
                     {
-                        "day": 2,
+                        "day": 4,
                         "startHour": 10,
                         "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "SG1",
+                        "salle": "CE13",
                         "demiWeek": false
                     },
                     {
-                        "day": 3,
-                        "startHour": 17,
+                        "day": 4,
+                        "startHour": 11,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "GCA330",
+                        "salle": "CM1104",
                         "demiWeek": false
                     },
                     {
-                        "day": 1,
-                        "startHour": 16,
-                        "hoursCount": 3,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE6",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique (classe inversée)",
-                "coursDisplayName": "Hébert (classe inversée)",
-                "coursPrecision": "classe inversée",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-mecanique-classe-inversee-PHYS-101-L",
-                "prof": "Hébert",
-                "lessons": [
-                    {
-                        "day": 2,
-                        "startHour": 10,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1101",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 16,
+                        "day": 4,
+                        "startHour": 9,
                         "hoursCount": 1,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE3",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            },
-            {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique",
-                "coursDisplayName": "Kneib",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-mecanique-PHYS-101-J",
-                "prof": "Kneib",
-                "lessons": [
-                    {
-                        "day": 3,
-                        "startHour": 16,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CO3",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1106",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 2,
-                        "startHour": 10,
-                        "hoursCount": 1,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE4",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
-                        "startHour": 15,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE4",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Chimie générale avancée",
-        "coursList": [
-            {
-                "subjectStandardName": "Chimie générale avancée",
-                "coursName": "Chimie générale avancée",
-                "coursDisplayName": "Terrettaz",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/chimie-generale-avancee-CH-160-E",
-                "prof": "Terrettaz",
-                "lessons": [
-                    {
-                        "day": 2,
-                        "startHour": 17,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CM011",
+                        "salle": "CE13",
                         "demiWeek": false
                     },
                     {
@@ -564,18 +148,158 @@
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CE6",
+                        "salle": "CE13",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 3,
+                "hourCountExercices": 3,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            },
+            {
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique (anglais)",
+                "coursDisplayName": "Hirschmann (anglais)",
+                "coursPrecision": "anglais",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-thermodynamique-anglais-PHYS-106-EN",
+                "prof": "Hirschmann",
+                "lessons": [
+                    {
+                        "day": 4,
+                        "startHour": 12,
+                        "hoursCount": 1,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CE11",
                         "demiWeek": false
                     },
                     {
-                        "day": 2,
-                        "startHour": 16,
-                        "hoursCount": 1,
+                        "day": 3,
+                        "startHour": 17,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CE1101",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 4,
+                        "startHour": 9,
+                        "hoursCount": 3,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CO1",
+                        "salle": "CE11",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 3,
+                "hourCountExercices": 3,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            },
+            {
+                "subjectStandardName": "Physique générale : thermodynamique",
+                "coursName": "Physique générale : thermodynamique (classe inversée en anglais)",
+                "coursDisplayName": " (classe inversée en anglais)",
+                "coursPrecision": "classe inversée en anglais",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/physique-generale-thermodynamique-classe-inversee-en-anglais-PHYS-106-PI",
+                "prof": "",
+                "lessons": [],
+                "hourCountCours": 3,
+                "hourCountExercices": 3,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Biologie générale",
+        "coursList": [
+            {
+                "subjectStandardName": "Biologie générale",
+                "coursName": "Biologie générale",
+                "coursDisplayName": "Gräff, Krummenacher, Radtke, Schoonjans",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/biologie-generale-BIOENG-110",
+                "prof": "Gräff, Krummenacher, Radtke, Schoonjans",
+                "lessons": [
+                    {
+                        "day": 5,
+                        "startHour": 8,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CM1105",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 3,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE11",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
+                        "startHour": 13,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CO3",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 4,
+                "hourCountExercices": 2,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Bio-organic chemistry",
+        "coursList": [
+            {
+                "subjectStandardName": "Bio-organic chemistry",
+                "coursName": "Bio-organic chemistry",
+                "coursDisplayName": "Correia",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/bio-organic-chemistry-BIO-110",
+                "prof": "Correia",
+                "lessons": [
+                    {
+                        "day": 5,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "BCH2201",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
+                        "startHour": 15,
+                        "hoursCount": 3,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "BCH2201",
                         "demiWeek": false
                     }
                 ],
@@ -587,64 +311,70 @@
         ]
     },
     {
-        "subjectStandardName": "Information, calcul, communication",
+        "subjectStandardName": "Programmation orientée objet",
         "coursList": [
             {
-                "subjectStandardName": "Information, calcul, communication",
-                "coursName": "Information, calcul, communication",
-                "coursDisplayName": "Jobstmann, Sam",
-                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/information-calcul-communication-CS-119-G",
-                "prof": "Jobstmann, Sam",
+                "subjectStandardName": "Programmation orientée objet",
+                "coursName": "Programmation orientée objet",
+                "coursDisplayName": "Sam",
+                "coursLink": "/studyplan/fr/propedeutique/ingenierie-des-sciences-du-vivant/coursebook/programmation-orientee-objet-CS-112-I",
+                "prof": "Sam",
                 "lessons": [
                     {
                         "day": 2,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "INF2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 15,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "INF119",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 9,
+                        "startHour": 13,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "RLC E1 240",
+                        "salle": "CM13",
                         "demiWeek": false
                     },
                     {
-                        "day": 1,
-                        "startHour": 12,
-                        "hoursCount": 1,
+                        "day": 2,
+                        "startHour": 10,
+                        "hoursCount": 3,
                         "isExercice": false,
                         "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO1",
+                        "isCours": false,
+                        "isProject": true,
+                        "salle": "CO020",
                         "demiWeek": false
                     }
                 ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
+                "hourCountCours": 2,
+                "hourCountExercices": 0,
                 "hourCountTP": 0,
-                "hourCountProject": 0
+                "hourCountProject": 3
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "SHS",
+        "coursList": [
+            {
+                "subjectStandardName": "SHS",
+                "coursName": "SHS",
+                "coursDisplayName": "SHS",
+                "coursLink": "/studyplan/fr/propedeutique/programme-sciences-humaines-et-sociales/coursebook/enjeux-mondiaux-alimentation-a-HUM-120-A",
+                "prof": "SHS",
+                "lessons": [
+                    {
+                        "day": 2,
+                        "startHour": 17,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "SG1",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 2,
+                "hourCountExercices": 0,
+                "hourCountTP": 0
             }
         ]
     }

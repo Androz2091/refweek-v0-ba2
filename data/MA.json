@@ -1,56 +1,56 @@
 [
     {
-        "subjectStandardName": "Algèbre linéaire avancée I",
+        "subjectStandardName": "Algèbre linéaire avancée II",
         "coursList": [
             {
-                "subjectStandardName": "Algèbre linéaire avancée I",
-                "coursName": "Algèbre linéaire avancée I",
-                "coursDisplayName": "Kressner",
-                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/algebre-lineaire-avancee-i-MATH-110-A",
-                "prof": "Kressner",
+                "subjectStandardName": "Algèbre linéaire avancée II",
+                "coursName": "Algèbre linéaire avancée II",
+                "coursDisplayName": "Eisenbrand",
+                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/algebre-lineaire-avancee-ii-MATH-115-A",
+                "prof": "Eisenbrand",
                 "lessons": [
                     {
-                        "day": 1,
+                        "day": 5,
+                        "startHour": 13,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "MAA331",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 2,
                         "startHour": 15,
                         "hoursCount": 1,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "CM13",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 15,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CO017",
+                        "salle": "CM14",
                         "demiWeek": false
                     },
                     {
                         "day": 2,
-                        "startHour": 8,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 1,
                         "startHour": 13,
                         "hoursCount": 2,
                         "isExercice": false,
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CM13",
+                        "salle": "CM14",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 3,
+                        "startHour": 14,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CM14",
                         "demiWeek": false
                     }
                 ],
@@ -62,35 +62,46 @@
         ]
     },
     {
-        "subjectStandardName": "Analyse avancée I",
+        "subjectStandardName": "Analyse avancée II",
         "coursList": [
             {
-                "subjectStandardName": "Analyse avancée I",
-                "coursName": "Analyse avancée I",
-                "coursDisplayName": "Monod",
-                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/analyse-avancee-i-MATH-100-A",
-                "prof": "Monod",
+                "subjectStandardName": "Analyse avancée II",
+                "coursName": "Analyse avancée II",
+                "coursDisplayName": "Buffoni",
+                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/analyse-avancee-ii-MATH-105-A",
+                "prof": "Buffoni",
                 "lessons": [
                     {
-                        "day": 4,
+                        "day": 3,
+                        "startHour": 10,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CO122",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
                         "startHour": 13,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
-                        "salle": "CO017",
+                        "salle": "CO122",
                         "demiWeek": false
                     },
                     {
-                        "day": 2,
-                        "startHour": 14,
+                        "day": 3,
+                        "startHour": 8,
                         "hoursCount": 2,
-                        "isExercice": true,
+                        "isExercice": false,
                         "isTP": false,
-                        "isCours": false,
+                        "isCours": true,
                         "isProject": false,
-                        "salle": "GCA331",
+                        "salle": "PO01",
                         "demiWeek": false
                     },
                     {
@@ -101,18 +112,7 @@
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "CM11",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO3",
+                        "salle": "CM13",
                         "demiWeek": false
                     }
                 ],
@@ -124,137 +124,24 @@
         ]
     },
     {
-        "subjectStandardName": "Physique générale : mécanique",
+        "subjectStandardName": "Physique générale : fluides et électromagnétisme",
         "coursList": [
             {
-                "subjectStandardName": "Physique générale : mécanique",
-                "coursName": "Physique générale : mécanique",
-                "coursDisplayName": "Bréchet",
-                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/physique-generale-mecanique-PHYS-101-F",
-                "prof": "Bréchet",
+                "subjectStandardName": "Physique générale : fluides et électromagnétisme",
+                "coursName": "Physique générale : fluides et électromagnétisme",
+                "coursDisplayName": "Theiler",
+                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/physique-generale-fluides-et-electromagnetisme-PHYS-108",
+                "prof": "Theiler",
                 "lessons": [
                     {
                         "day": 5,
-                        "startHour": 10,
+                        "startHour": 8,
                         "hoursCount": 2,
                         "isExercice": true,
                         "isTP": false,
                         "isCours": false,
                         "isProject": false,
                         "salle": "CO017",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 15,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CE1",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 3,
-                        "startHour": 9,
-                        "hoursCount": 3,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CE1",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Information, calcul, communication",
-        "coursList": [
-            {
-                "subjectStandardName": "Information, calcul, communication",
-                "coursName": "Information, calcul, communication",
-                "coursDisplayName": "Chappelier",
-                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/information-calcul-communication-CS-119-D",
-                "prof": "Chappelier",
-                "lessons": [
-                    {
-                        "day": 4,
-                        "startHour": 9,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "INF2",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 15,
-                        "hoursCount": 1,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CM012",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 4,
-                        "startHour": 11,
-                        "hoursCount": 1,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "CO1",
-                        "demiWeek": false
-                    },
-                    {
-                        "day": 5,
-                        "startHour": 13,
-                        "hoursCount": 2,
-                        "isExercice": false,
-                        "isTP": false,
-                        "isCours": true,
-                        "isProject": false,
-                        "salle": "SG1",
-                        "demiWeek": false
-                    }
-                ],
-                "hourCountCours": 3,
-                "hourCountExercices": 3,
-                "hourCountTP": 0,
-                "hourCountProject": 0
-            }
-        ]
-    },
-    {
-        "subjectStandardName": "Structures algébriques",
-        "coursList": [
-            {
-                "subjectStandardName": "Structures algébriques",
-                "coursName": "Structures algébriques",
-                "coursDisplayName": "Wyss",
-                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/structures-algebriques-MATH-113",
-                "prof": "Wyss",
-                "lessons": [
-                    {
-                        "day": 1,
-                        "startHour": 16,
-                        "hoursCount": 2,
-                        "isExercice": true,
-                        "isTP": false,
-                        "isCours": false,
-                        "isProject": false,
-                        "salle": "CM1100",
                         "demiWeek": false
                     },
                     {
@@ -265,7 +152,58 @@
                         "isTP": false,
                         "isCours": true,
                         "isProject": false,
-                        "salle": "BCH2201",
+                        "salle": "CE11",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 3,
+                        "startHour": 16,
+                        "hoursCount": 1,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE11",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 3,
+                "hourCountExercices": 2,
+                "hourCountTP": 0,
+                "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Discrete mathematics",
+        "coursList": [
+            {
+                "subjectStandardName": "Discrete mathematics",
+                "coursName": "Discrete mathematics",
+                "coursDisplayName": "Viazovska",
+                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/discrete-mathematics-MATH-260-A",
+                "prof": "Viazovska",
+                "lessons": [
+                    {
+                        "day": 2,
+                        "startHour": 8,
+                        "hoursCount": 2,
+                        "isExercice": true,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": false,
+                        "salle": "CE1106",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 1,
+                        "startHour": 8,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CM11",
                         "demiWeek": false
                     }
                 ],
@@ -273,6 +211,74 @@
                 "hourCountExercices": 2,
                 "hourCountTP": 0,
                 "hourCountProject": 0
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "Programmation orientée objet",
+        "coursList": [
+            {
+                "subjectStandardName": "Programmation orientée objet",
+                "coursName": "Programmation orientée objet",
+                "coursDisplayName": "Chappelier",
+                "coursLink": "/studyplan/fr/propedeutique/mathematiques/coursebook/programmation-orientee-objet-CS-112-G",
+                "prof": "Chappelier",
+                "lessons": [
+                    {
+                        "day": 4,
+                        "startHour": 8,
+                        "hoursCount": 1,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "CE13",
+                        "demiWeek": false
+                    },
+                    {
+                        "day": 4,
+                        "startHour": 9,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": false,
+                        "isProject": true,
+                        "salle": "CO020",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 1,
+                "hourCountExercices": 0,
+                "hourCountTP": 0,
+                "hourCountProject": 2
+            }
+        ]
+    },
+    {
+        "subjectStandardName": "SHS",
+        "coursList": [
+            {
+                "subjectStandardName": "SHS",
+                "coursName": "SHS",
+                "coursDisplayName": "SHS",
+                "coursLink": "/studyplan/fr/propedeutique/programme-sciences-humaines-et-sociales/coursebook/enjeux-mondiaux-alimentation-a-HUM-120-A",
+                "prof": "SHS",
+                "lessons": [
+                    {
+                        "day": 2,
+                        "startHour": 17,
+                        "hoursCount": 2,
+                        "isExercice": false,
+                        "isTP": false,
+                        "isCours": true,
+                        "isProject": false,
+                        "salle": "SG1",
+                        "demiWeek": false
+                    }
+                ],
+                "hourCountCours": 2,
+                "hourCountExercices": 0,
+                "hourCountTP": 0
             }
         ]
     }
