@@ -177,7 +177,7 @@
                                     const endDiff = (dayIdx + 7 - end.getDay()) % 7;
 
                                     const endOfWeekDate = new Date();
-                                    endOfWeekDate.setDate(endOfWeekDate.getDate() + (7 - endOfWeekDate.getDay()) % 7);
+                                    endOfWeekDate.setDate(endOfWeekDate.getDate() + (6 - endOfWeekDate.getDay()) % 7);
                                     console.log(endOfWeekDate.toISOString())
 
                                     start.setDate(start.getDate() + startDiff);
